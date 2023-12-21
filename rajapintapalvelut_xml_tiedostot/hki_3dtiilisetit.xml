@@ -1,0 +1,8 @@
+<!DOCTYPE connections>
+<qgsTiledSceneConnections version="1.0">
+    <tiledscene provider="cesiumtiles" url="https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json" password="" http-header:referer="" name="hki_ylre" username="" referer="" authcfg=""/>
+    <tiledscene provider="cesiumtiles" url="https://dl2sa.blob.core.windows.net/public3d/helsinki_jatkasaari_als_2021/tileset.json" password="" http-header:referer="" name="cyclo-2021_eitoimi" username="" referer="" authcfg=""/>
+    <tiledscene provider="cesiumtiles" url="https://proto.fvh.io/jatkasaari/cyclomedia_dcr10/1/tileset.json" password="" http-header:referer="" name="hki_cyclomedia_eitoimi" username="" referer="" authcfg=""/>
+    <tiledscene provider="cesiumtiles" url="https://kartta.hel.fi/3d/datasource-data/2bcc0c80-51b8-412b-af72-b3ecc7007a18/tileset.json" password="" http-header:referer="" name="hki_lod2_z" username="" referer="" authcfg=""/>
+    <tiledscene provider="cesiumtiles" url="https://smb.optgeo.org/ipfs/QmXYBL9eeeB3VXc5sFhU3AySbJQevD29Nfu4ycd4RZsfA7/tileset.json" password="" http-header:referer="" name="hki_optgeo_eitoimi" username="" referer="" authcfg=""/>
+</qgsTiledSceneConnections>

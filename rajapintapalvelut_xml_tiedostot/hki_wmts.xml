@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms smoothPixmapTransform="0" dpiMode="7" ignoreGetFeatureInfoURI="0" url="https://kartta.hel.fi/ws/geoserver/avoindata/gwc/service/wmts" password="" name="hki wmts" username="" ignoreGetMapURI="0" invertAxisOrientation="0" ignoreAxisOrientation="0"/>
+</qgsWMSConnections>

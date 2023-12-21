@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWCSConnections version="1.0">
+    <wcs url="https://kartta.hel.fi/ws/geoserver/avoindata/wcs?request=GetCapabilities" password="" name="hki_wcs" username=""/>
+</qgsWCSConnections>
