@@ -9,7 +9,6 @@ Tämä on Forum Viriumille toteutettavan (Q1/2024) kokeiluhankkeen "3D-Aineistoj
 - Edistää CityGML 3.0 -standardin mukaisten 3D-datojen tuotantoprosesseja.
 
 ## Projektin Rakenne
-- `/QGIS-projektit`: Sisältää QGIS-projektitiedostoja.
-- `/Dokumentaatio`: Kattaa hankkeen tekniset ja käyttöohjeet.
+- `/qgis-projektitiedostot`: Sisältää QGIS-projektitiedostoja.
 - Muut kansiot ja tiedostot sisältävät lisämateriaaleja, kuten testidataa ja skriptejä.
 
