@@ -14,33 +14,13 @@ linkki
 - QGISiin on tuotettu Cyclomedia-lisäosa, jolla dataa voi tarkastella
 
 ## 3D-tiiliaineistot
-| Nimi         | Vuosi | Toimivuus QGIS:ssa | Linkit                                                                                                        | Huomiot |
-|--------------|-------|-------------------|-----------------------------------------------------------------------------------------------|---|
-| Jätkäsaari   | 2022  | Ei                | [Linkki](https://dl2sa.blob.core.windows.net/public3d/cyclomedia_jatkasaari_2022_09/kaikki.json)                                                     | - |
-| Jätkäsaari   | 2021  | Ei                | [Linkki](https://dl2sa.blob.core.windows.net/public3d/helsinki_jatkasaari_als_2021/tileset.json)                     | - |
-| Streetdemo   | -     | Kyllä             | [Linkki](https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json) | Huom. linkki saattaa vaihtua; käytä silloin erillistä linkkiä: [Linkki](https://.io/mlh360) |
-| YLRE        | -     | -                 | https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json | [Linkki](https://prod.xd-twin.io/project/62ea3e646daa2a001aab6258) Yleisten Alueiden Rekisterin (YLRE) kokeellinen 3D-esitysmuoto. 3D-tiiliaineisto tuloillaan |
+| Nimi         | Vuosi | Toimivuus QGIS:ssa | Linkit                                                                                       | Huomiot |
+|--------------|-------|-------------------|-----------------------------------------------------------------------------------------------|---------|
+| Jätkäsaari, Cyclomedia  | 2022  | Ei                | [Linkki](https://dl2sa.blob.core.windows.net/public3d/cyclomedia_jatkasaari_2022_09/kaikki.json)    | - |
+| Jätkäsaari, <tarkenna>   | 2021  | Ei                | [Linkki](https://dl2sa.blob.core.windows.net/public3d/helsinki_jatkasaari_als_2021/tileset.json)    | - |
+| Streetdemo, <tarkenna>   | -     | Kyllä             | [Linkki](https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json) | Huom. linkki saattaa vaihtua; käytä silloin erillistä linkkiä: [Linkki](https://.io/mlh360) |
+| YLRE, kokeellinen 3D-esitysmuoto  | 2023?   | Kyllä  | [Linkki](https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json) | [Linkki](https://prod.xd-twin.io/project/62ea3e646daa2a001aab6258) |
 
-
-
-Jätkäsaari (2022)
-- ei toimi QGISista:
-- https://dl2sa.blob.core.windows.net/public3d/cyclomedia_jatkasaari_2022_09/kaikki.json 
-
-Jätkäsaari (2021):
-- ei toimi QGISista:
-- https://dl2sa.blob.core.windows.net/public3d/helsinki_jatkasaari_als_2021/tileset.json
-
-Streetdemo:
-- toimii QGISista:
-- https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json
-- Huom. koska projektit työn alla ja todennäköisesti vaihtuvat, käytä erillistä linkkiä: https://fvh.io/mlh360
-
-YLRE:
-- Kyseessä Yleisten Alueiden Rekisterin (YLRE) kokeellinen 3D-esitysmuoto 
-- https://prod.xd-twin.io/project/62ea3e646daa2a001aab6258
-- Tästä myös 3D-tilesetti työn alla
-- Nyt jo saatavilla tämä: https://dl2sa.blob.core.windows.net/public3d/streetdemo_updated/tileset.json
 
 ## Muut datat
 - Keskilinjageometriadata: tulossa helmikuussa 2024
