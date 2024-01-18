@@ -31,3 +31,7 @@ linkki
 - Helsingin katujen keskilinjageometria: uusi versio tekeillä
 - Tutustu myös https://mobilitylab.hel.fi/data/
 
+## Miten navigoida 3D-näkymässä
+- CTRL/SHIFT ja hiiren vasemmalla näppäimellä voi muuttaa näkymän suuntaa
+- PgUp ja PgDn näppäimet ovat näppäriä kun halutaan liikkua vertikaalisesti
+
