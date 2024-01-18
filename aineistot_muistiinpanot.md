@@ -11,6 +11,10 @@
 | Rakennukset tekstuureilla | 2017 | Ei | Kyllä | [Linkki](https://kartta.hel.fi/3d/b3dm_2017/tileset.json) | QGIS: "GLTF version 1 tiles cannot be loaded" | ![image](https://github.com/GispoCoding/fv_qgis3Dkokeilu/assets/13584679/0ddf413e-850a-466d-8513-3500b5788cff) | 
 | Rakennukset tekstuureilla | 2017 | Kyllä | Kyllä | [Linkki](https://kartta.hel.fi/3d/b3dm_2017_2/tileset.json) | Kyseessä "GLTF version 2", toimii mm. Unreal Enginessä |  ![hki_2017](https://github.com/GispoCoding/fv_qgis3Dkokeilu/assets/13584679/3ea045a9-6fde-4a43-b94f-1dc0f3dc5047) | 
 | Rakennusala 3D | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/rakennusala_3d/tileset.json) |  |  | 
+| Rakennusala | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/rakennusala/tileset.json) | Sama kuin yllä olevat rakennukset, mutta 2D? |  | 
+| Asemakaava | ? | Kyllä  | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/asemakaava/tileset.json) | Asemakaava on 2D taso? |  | 
+| Kaavayksikkö | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kaavayksikko/tileset.json) | 2D-taso?|  | 
+| Käyttötarkoitusalue | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kayttotarkoitusalue/tileset.json) | |  | 
 
 * [MapStorea](https://docs.mapstore.geosolutionsgroup.com/en/v2023.02.01/) on käytetty tässä toisena testaustyökaluna QGISin rinnalla.
 
