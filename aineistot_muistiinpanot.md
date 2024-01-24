@@ -36,5 +36,5 @@ linkki
 - PgUp ja PgDn näppäimet ovat näppäriä kun halutaan liikkua vertikaalisesti
 - Dock 3D map view 2D ikkunan viereen/yläpuolelle ja ruksaa, että 2D ja 3D näkymät seuraavat toisiaan
 -   Huom! muuta koordinaattijärjestelmä. EPSG:3857 toimii (Emilin) kokemuksen mukaan parhaiten.)
--   Suomalaiset koordinaattijärjestlemät sekoilee ja 3D näkymä ei näy, tai sitten 2D kartta hyppää jonnekin Siperiaan.
+-   Suomalaiset koordinaattijärjestelmät sekoilee ja 3D näkymä ei näy, tai sitten 2D kartta hyppää jonnekin Siperiaan.
 
