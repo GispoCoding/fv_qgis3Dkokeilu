@@ -24,3 +24,4 @@ Seuraavaksi neuvotaan miten QGIS:n näyttömuistin sallittu määrä säädetä�
 Joskus välimuisti ei riitä 3D-tiilien hakemiseen, joten jos haet isoja aineistoja suositellaan kasvattamaan QGIS:n sallittua välimuistia.
 1. Valitse Asetukset -> Valinnat -> Verkko
 2. Välimuistin asetukset-kohdassa voit säätää "Koko [KiB]" kohtaa. Isoille aineistoille [suositellaan](https://www.lutraconsulting.co.uk/blog/2023/11/16/3d-tiles-in-QGIS/), että välimuistia on 1 gigatavu, tai enemmän. Eli yksi gigtavu olisi 1048576 kilobittiä. Kokeile ensin sillä ja lisää sitä tarpeen mukaan.
+![image](https://github.com/GispoCoding/fv_qgis3Dkokeilu/assets/49360102/6fd2ec07-e567-4692-921f-63e403f11f7b)
