@@ -15,6 +15,7 @@
 | Asemakaava | ? | Kyllä  | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/asemakaava/tileset.json) | Asemakaava on 2D taso? |  | 
 | Kaavayksikkö | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kaavayksikko/tileset.json) | 2D-taso?|  | 
 | Käyttötarkoitusalue | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kayttotarkoitusalue/tileset.json) | |  |
+| KTeksturoitu koerakennus | ? | Kyllä | Ei | [Linkki](https://kartta.hel.fi/3d/datasource-data/6d0f98c8-e0cf-4d17-ba02-e809de1f3fb5/tileset.json) | |  |
 | KYMP & Kaupunkimalli, Puustotulkinta ilmalaserkeilauksesta PoC-projektin pistepilvi | ? | Ei | Ei | [Linkki](https://dl2sa.blob.core.windows.net/public3d/puustotulkinta_2023/kasvillisuus_v2/tileset.json) | |  | 
 
 * [MapStorea](https://docs.mapstore.geosolutionsgroup.com/en/v2023.02.01/) on käytetty tässä toisena testaustyökaluna QGISin rinnalla.
