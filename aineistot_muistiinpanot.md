@@ -14,7 +14,8 @@
 | Rakennusala | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/rakennusala/tileset.json) | Sama kuin yllä olevat rakennukset, mutta 2D? |  | 
 | Asemakaava | ? | Kyllä  | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/asemakaava/tileset.json) | Asemakaava on 2D taso? |  | 
 | Kaavayksikkö | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kaavayksikko/tileset.json) | 2D-taso?|  | 
-| Käyttötarkoitusalue | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kayttotarkoitusalue/tileset.json) | |  | 
+| Käyttötarkoitusalue | ? | Kyllä | Ei testattu | [Linkki](https://dl2sa.blob.core.windows.net/public3d/kaavapoc2023/kayttotarkoitusalue/tileset.json) | |  |
+| KYMP & Kaupunkimalli, Puustotulkinta ilmalaserkeilauksesta PoC-projektin pistepilvi | ? | Ei | Ei | [Linkki](https://dl2sa.blob.core.windows.net/public3d/puustotulkinta_2023/kasvillisuus_v2/tileset.json) | |  | 
 
 * [MapStorea](https://docs.mapstore.geosolutionsgroup.com/en/v2023.02.01/) on käytetty tässä toisena testaustyökaluna QGISin rinnalla.
 
@@ -37,4 +38,4 @@ linkki
 - Dock 3D map view 2D ikkunan viereen/yläpuolelle ja ruksaa, että 2D ja 3D näkymät seuraavat toisiaan
 -   Huom! muuta koordinaattijärjestelmä. EPSG:3857 toimii (Emilin) kokemuksen mukaan parhaiten.)
 -   Suomalaiset koordinaattijärjestelmät sekoilee ja 3D näkymä ei näy, tai sitten 2D kartta hyppää jonnekin Siperiaan.
-
+- Jos liikkuminen tuntuu hitaalta. Käy 
