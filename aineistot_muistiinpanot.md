@@ -38,4 +38,4 @@ linkki
 - Dock 3D map view 2D ikkunan viereen/yläpuolelle ja ruksaa, että 2D ja 3D näkymät seuraavat toisiaan
 -   Huom! muuta koordinaattijärjestelmä. EPSG:3857 toimii (Emilin) kokemuksen mukaan parhaiten.)
 -   Suomalaiset koordinaattijärjestelmät sekoilee ja 3D näkymä ei näy, tai sitten 2D kartta hyppää jonnekin Siperiaan.
-- Jos liikkuminen tuntuu hitaalta. Käy 
+- Jos liikkuminen tuntuu hitaalta. Asetukset -> Valinnat -> 3D-välilehti ja säädä Liikkumisnopeus-asetus korkeammalla. Tallenna ja avaa uusi 3D-näkymä.
